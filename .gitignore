@@ -1,0 +1,19 @@
+# Recreated by the checked-in Vivado Tcl scripts.
+/vivado_project/
+/vivado_proj_bitstream/
+/vivado_proj_bitstream2/
+/vivado_proj_bitstream3/
+/.Xil/
+/xsim.dir/
+*.log
+*.jou
+*.pb
+*.str
+*.wdb
+*.wcfg
+/dfx_runtime.txt
+/cache_controller_bitstream3.xpr.zip
+
+# Separate local Git repositories; not part of this project.
+/cache_controler/
+/cache_controler_/
