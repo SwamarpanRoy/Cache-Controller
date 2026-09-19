@@ -2,8 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: Swamarpan Roy
-// 
-// Create Date: 18.10.2019 05:13:39
 // Design Name: 
 // Module Name: TB_READ
 // Project Name: 
