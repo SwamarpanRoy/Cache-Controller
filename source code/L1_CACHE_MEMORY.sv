@@ -2,8 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: Swamarpan Roy
-// 
-// Create Date: 23.10.2019 02:48:05
 // Design Name: 
 // Module Name: L1_CACHE_MEMORY
 // Project Name: 
