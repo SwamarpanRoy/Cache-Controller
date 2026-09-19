@@ -13,8 +13,6 @@ Here in this project, we have implemented a Cache Controller for two layers of C
   <img src="images/Cache_controller_block_diagram.PNG" alt="Size Limit CLI" width="800">
 </p>
 
-## Project Video
-Link to project video: [Cache Controller](https://drive.google.com/file/d/1rR0kxIyxufQ5pK3DtcUsePRGd8cnsd2F/view?usp=sharing)
 
 This video contains brief theoretical explanations, explanation of simulation waveforms and shows the cache controller running on the FPGA.
 
