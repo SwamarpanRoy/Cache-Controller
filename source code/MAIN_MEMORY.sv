@@ -2,8 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: Swamarpan Roy
-// 
-// Create Date: 18.10.2019 03:56:56
 // Design Name: 
 // Module Name: MAIN_MEMORY
 // Project Name: 
